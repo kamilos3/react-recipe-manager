@@ -1,0 +1,19 @@
+[
+    {
+        "id":"0",
+        "name":"Steak Frites Salades",
+        "ingredients":[
+            "2 tomates",
+            "1 salades",
+            "6 patates"
+        ]
+    },
+    {
+        "id":"1",
+        "name":"Poisson aux patates",
+        "ingredients":[
+            "1 poisson",
+            "6 patates"
+        ]
+    }
+]
