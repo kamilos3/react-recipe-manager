@@ -4,6 +4,7 @@
         "name":"Steak Frites Salades",
         "ingredients":[
             "2 tomates",
+			"4 steack",
             "1 salades",
             "6 patates"
         ]
@@ -15,5 +16,223 @@
             "1 poisson",
             "6 patates"
         ]
+    },
+    {
+        "id":"2",
+        "name":"Saucisse stoemp carotte",
+        "ingredients":[
+            "1 saucisse",
+            "2 patates",
+            "4 carottes"
+        ]
+    },
+    {
+        "id":"3",
+        "name":"Pesto rosso selon Cyril",
+        "ingredients":[
+            "240 pennes",
+            "100 petis pois",
+			"200 tomatesCerises",
+			"200 lardons ",
+			"200 epinards ",
+			"1 courgettes",
+			"2 pestoRosso"
+        ]
+    },
+    {
+        "id":"4",
+        "name":"Carbo",
+        "ingredients":[
+            "400 spaghettis",
+            "3 oeufs",
+			"400 lardons",
+			"1 oignons",
+			"120 parmesans"
+        ]
+    },
+	{
+        "id":"5",
+        "name":"Salade de crevettes selon cyril",
+        "ingredients":[
+            "1 crevettes",
+            "60 maizena",
+			"2 oeufs",
+			"80 chapelure",
+			"1 salade",
+			"2 oignonsNouveaux",
+			"2 avocats",
+			"1 huileSésame",
+			"1 grainesSésame",
+			"50 yaourtGrecq",
+			"2 Mayonnaise",
+			"1 ail"
+        ]
+    },
+	{
+        "id":"6",
+        "name":"Poulet pané selon Jamie",
+        "ingredients":[
+            "4 blancPoulets",
+            "1 painComplet",
+			"2 ail",
+			"2 citron",
+			"1 salade",
+			"6 patates",
+			"600 princesses"
+        ]
+    },
+	{
+        "id":"7",
+        "name":"Dark greens",
+        "ingredients":[
+            "4 blancPoulets",
+            "1 painComplet",
+			"1 ail",
+			"1 citron",
+			"1 salade",
+			"6 patates",
+			"300 princesses"
+        ]
+    },
+	{
+        "id":"8",
+        "name":"Penne Arrabiata",
+        "ingredients":[
+            "2 aubergines",
+            "4 ail",
+			"400 sauceTomate",
+			"300 penneComplet",
+			"4 chillies"
+        ]
+    },
+	{
+        "id":"9",
+        "name":"Poulet pate feuilletee",
+        "ingredients":[
+            "1 pateFeuilleté",
+            "2 tomatesCerises",
+			"400 princesses",
+			"1 pestoVert"
+        ]
+    },
+	{
+        "id":"10",
+        "name":"Veau Moutarde",
+        "ingredients":[
+            "600 escalopeVeau",
+            "13 champignons",
+			"20 creme",
+			"2 brocolis",
+			"2 brocolis",
+        ]
+    },
+	{
+        "id":"11",
+        "name":"Cordon Bleu au stopem carotte",
+        "ingredients":[
+            "9 patates",
+            "6 carottes",
+			"4 aiguillettesPoulet",
+			"1 chapellure",
+			"2 oeufs",
+			"1 citron",
+        ]
+    },
+	{
+        "id":"12",
+        "name":"Oiseau sans tete",
+        "ingredients":[
+            "800 haché",
+            "2 brocolis",
+			"20 creme",
+        ]
+    },
+	{
+        "id":"13",
+        "name":"Pate congli",
+        "ingredients":[
+            "500 pateCongli",
+            "1 epinards",
+			"1 chevre",
+			"1 noix",
+        ]
+    },
+	{
+        "id":"14",
+        "name":"Gratin Dauphinois",
+        "ingredients":[
+			"1000 patatesG",
+			"50 laitCL",
+			"20 cremeCL",
+			"100 fromageGrattiner"
+        ],
+		"URL": "Cyril 1"
+    },
+	{
+        "id":"15",
+        "name":"Quiche potimarron",
+        "ingredients":[
+			"2 butternuts",
+			"3 carrottes",
+			"1 fromageChevre",
+			"4 oeufs",
+			"25 creme7%",
+			"100 noix"
+        ],
+		"URL":"https://simplymorane.com/une-quiche-dautomne-reconfortante/"
+    },
+	{
+        "id":"16",
+        "name":"Spagetthis ricotta petit pois courgette",
+        "ingredients":[
+			"500 spaghettis",
+			"1 citron",
+			"1 petitPoisCup",
+			"1 ricotta",
+			"1 courgettes",
+			"100 noix",
+			"100 lardons",
+        ],
+		"URL":"https://www.budgetbytes.com/lemon-ricotta-pasta/"
+    },
+	{
+        "id":"17",
+        "name":"Pizza",
+        "ingredients":[
+			"2 pateAPizza",
+			"2 aubergines",
+			"2 poivrons ",
+			"400 passatta",
+			"1 ails",
+			"1 oignons",
+			"250 champignons",
+			"10 tomatesCerises",
+			"1 Jambon"
+        ]
+    },
+	{
+        "id":"18",
+        "name":"Soupe Courgette",
+        "ingredients":[
+			"2 patates",
+			"3 courgette",
+        ]
+    },
+	{
+        "id":"19",
+        "name":"Pitta avocats crevettes",
+        "ingredients":[
+			"1 ailPoudre",
+			"1 paprikaPoudre",
+			"1 cumin",
+			"2 crevettes",
+			"3 avocats",
+			"6 petitesTomates",
+			"1 citron",
+			"1 salade"
+        ],
+		"URL":"video insta"
     }
+		 
+	 
 ]
